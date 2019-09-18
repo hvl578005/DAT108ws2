@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	background-color:pink;
+}
+
+a {
+	color:red;
+}
+
+h1 {
+	color:gray;
+	font-family:arial;
+	font-size:30pxpx;
+	text-align:center;
+}
+
+p {
+	color:white;
+	font-family:courier new;
+	font-size:20px;
+	text-align:center;
+}
